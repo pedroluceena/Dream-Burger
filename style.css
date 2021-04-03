@@ -71,10 +71,10 @@ p{
     background: #563434;
 }
 /*Coloquei o um efeito de botão no Try it Now*/
-.header{
+main{
     background: radial-gradient(#fff,#FFA500);
 }
-.header .row{
+main.row{
     margin: 100px;
 }
 .categories{
